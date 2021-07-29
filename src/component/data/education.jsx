@@ -21,6 +21,6 @@ export const EducationData = [
     dateJoining: "2017",
     dataEnd: "Present",
     companyLogo: "./images/kist.jpg",
-    location: "Kumaripati, Lalitpur",
+    location: "Kamalpokhari, Kathamndu",
   },
 ];
