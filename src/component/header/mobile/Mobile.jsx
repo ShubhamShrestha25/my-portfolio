@@ -8,7 +8,7 @@ const Mobile = ({ isOpen, setIsOpen }) => {
       </div>
       <div className="mobile-options">
         <div className="mobile-option">
-          <a href="#project" onClick={() => setIsOpen(false)}>
+          <a href="#projects" onClick={() => setIsOpen(false)}>
             <i className="fi-rr-edit-alt option-icon" />
             Projects
           </a>
