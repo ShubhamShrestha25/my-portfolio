@@ -20,6 +20,12 @@ const Mobile = ({ isOpen, setIsOpen }) => {
           </a>
         </div>
         <div className="mobile-option">
+          <a href="#education">
+            <i className="fi-rr-book-alt option-icon" />
+            Education
+          </a>
+        </div>
+        <div className="mobile-option">
           <a href="#work">
             <i className="fi-rr-briefcase option-icon" />
             Work

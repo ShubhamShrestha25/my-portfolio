@@ -9,7 +9,7 @@ const SocialContact = () => {
       {data.map((item, key) => {
         return (
           <div key={key}>
-            <a href={item.link}>
+            <a href={item.link} target="_blank" rel="noopener noreferrer">
               <div className="social-icon-div">
                 <img src={item.icon} alt="missing" className="social-icon" />
               </div>

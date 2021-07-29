@@ -1,12 +1,5 @@
 .separator {
-  background-image: linear-gradient(
-    to right top,
-    #2900eb,
-    #2a02e7,
-    #2b04e2,
-    #2c06de,
-    #2d08da
-  );
+  background-color: rgb(55, 55, 226);
   height: 6px;
   width: 50%;
   border-radius: 3px;

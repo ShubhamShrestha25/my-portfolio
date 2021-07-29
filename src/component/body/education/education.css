@@ -1,0 +1,9 @@
+.education {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.education-list {
+  margin: 24px 0px;
+}

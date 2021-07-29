@@ -1,11 +1,11 @@
 .work-card {
-  padding: 8px;
-  width: 45%;
-  margin-top: 16px;
+  flex: 1;
   display: flex;
   justify-content: space-between;
-  align-items: center;
   flex-direction: row-reverse;
+  align-items: center;
+  margin: 16px 0px;
+  padding: 8px 0px;
 }
 
 .work-logo {
@@ -15,6 +15,7 @@
 .work-info {
   display: flex;
   align-items: flex-start;
+  width: 45%;
   flex-direction: column;
 }
 
